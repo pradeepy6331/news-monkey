@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 28,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Teo Armus",
+      "title": "What Tuesday’s big midterm contests will reveal about Trump and Democrats - The Washington Post",
+      "description": "New congressional maps will debut in Texas and North Carolina as Republicans try to defend their majorities and Democrats hope they can flip both chambers.",
+      "url": "https://www.washingtonpost.com/politics/2026/03/03/midterm-primary-elections-texas-north-carolina/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RPPRIHV4MLHAMQTT5FH7V6YHUQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-03-03T11:32:15Z",
+      "content": "The 2026 midterm election season kicks off Tuesday with primaries in Arkansas, North Carolina and Texas, including several high-profile contests that will set the tone for November as voters weigh in… [+93 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Steve Hendrix, Heidi Levine",
+      "title": "Threat from Iran conflict spreads across Middle East in 72 hours - The Washington Post",
+      "description": "In less than three days, the conflict ricocheted beyond the original targets in Iran, Israel and Iraq to threaten some 300 million civilians across more than a dozen nations.",
+      "url": "https://www.washingtonpost.com/world/2026/03/02/mideast-iran-israel-war-civilians/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YWPHXRR4WWNNBSQOQFBSAZPUXY_size-normalized.JPG&w=1440",
+      "publishedAt": "2026-03-03T09:26:53Z",
+      "content": "BEIT SHEMESH, Israel Even before U.S. and Israeli warplanes struck Iranian targets, officials in Washington and Jerusalem were bracing for retaliation. They had gamed out missile salvos, cyberattacks… [+246 chars]"
+    }
+  ]
+}
